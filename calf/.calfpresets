@@ -1,0 +1,39 @@
+<presets>
+<preset bank="0" program="0" plugin="eq5" name="Bass">
+  <param name="bypass" value="0" />
+  <param name="level_in" value="1" />
+  <param name="level_out" value="1" />
+  <param name="meter_inL" value="0.07968" />
+  <param name="meter_inR" value="0.0844626" />
+  <param name="meter_outL" value="0.0882349" />
+  <param name="meter_outR" value="0.0902534" />
+  <param name="clip_inL" value="0" />
+  <param name="clip_inR" value="0" />
+  <param name="clip_outL" value="0" />
+  <param name="clip_outR" value="0" />
+  <param name="ls_active" value="1" />
+  <param name="ls_level" value="1.64718" />
+  <param name="ls_freq" value="61.9794" />
+  <param name="ls_q" value="0.707" />
+  <param name="hs_active" value="1" />
+  <param name="hs_level" value="1.51572" />
+  <param name="hs_freq" value="3367.57" />
+  <param name="hs_q" value="0.707" />
+  <param name="p1_active" value="1" />
+  <param name="p1_level" value="1" />
+  <param name="p1_freq" value="250" />
+  <param name="p1_q" value="1" />
+  <param name="p2_active" value="1" />
+  <param name="p2_level" value="1" />
+  <param name="p2_freq" value="1000" />
+  <param name="p2_q" value="1" />
+  <param name="p3_active" value="1" />
+  <param name="p3_level" value="1" />
+  <param name="p3_freq" value="4000" />
+  <param name="p3_q" value="1" />
+  <param name="individuals" value="1" />
+  <param name="zoom" value="0.0625" />
+  <param name="analyzer" value="1" />
+  <param name="analyzer_mode" value="1" />
+</preset>
+</presets>

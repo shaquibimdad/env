@@ -1,0 +1,8 @@
+[gui]
+rack-float=1
+float-size=1
+show-rack-ears=true
+show-vu-meters=true
+style=Calf_Flat_Default
+win-to-tray=false
+win-start-hidden=false

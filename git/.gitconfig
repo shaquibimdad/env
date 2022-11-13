@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file.
+
+[user]
+	email = shaquibxyz@gmail.com
+	name = shaquibimdad
+	signingkey = shaquibxyz@gmail.com
+[init]
+  	defaultBranch = main
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2
+	
+[includeIf "gitdir:/media/shaquib/7xq-git-workspace"]
+	path = /media/shaquib/7xq-git-workspace/.gitconfig
+
